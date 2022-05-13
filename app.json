@@ -28,7 +28,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.pavitra_behara.weather"
+      "package": "com.weatherapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
