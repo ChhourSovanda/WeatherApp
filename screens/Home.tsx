@@ -15,7 +15,6 @@ import { BACKGROUND_COLOR, NAV_BACKGROUND_COLOR } from "../constants/colors";
 import { useTemp } from "../context/TempartureContext";
 import Loading from "./Loading";
 
-//Screen Height and Width
 const { height, width } = Dimensions.get("window");
 
 const Home = () => {
